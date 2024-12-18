@@ -75,6 +75,117 @@
       "url": "http://www.truman.gov/",
       "due_date": "01/15/2025",
       "value": 1
+    },
+    {
+      "name": "🇺🇸 James Madison Fellowship",
+      "description": "The James Madison Graduate Fellowship Program is a federally-endowed fellowship program designed to strengthen instruction about the U.S. Constitution at the secondary school level. Graduating seniors without teaching experience who intend to pursue a career in teaching American history or political science can receive funding for two years of master's level graduate study of the framing and history of the Constitution. Fellows must agree to teach full-time in a secondary school for no less than one year for each full year of fellowship support. U.S. citizenship required.",
+      "url": "http://www.jamesmadison.gov/",
+      "due_date": "03/01/2025",
+      "value": 1
+    },
+    {
+    "name": "🇺🇸 Beinecke Scholarship",
+    "description": "The Beinecke Scholarship enables students in the traditional liberal arts to pursue graduate school opportunities they may not otherwise have been able to pursue. The award provides $4,000 immediately prior to attending graduate school and a maximum stipend of $15,000 per year while in graduate school. About 20 awards are given annually.",
+    "url": "https://beineckescholarship.org/",
+    "due_date": "02/08/2025",
+    "value": 1
+    },
+    {
+    "name": "🇬🇧 Keasbey Scholarship",
+    "description": "Periodically Cornell, Harvard, Dartmouth, Brown, Haverford, Middlebury, Amherst, Bowdoin, Swarthmore, Wesleyan, and Yale Universities are invited to submit two nominations each to the Keasbey Scholarship competition. One award will be granted. The award provides support for two years of graduate work at one of four British Universities: Oxford, Cambridge, University of Edinburgh, or University College of Wales at Aberystwyth.",
+    "url": "http://keasbeyfoundation.org/eligibility.php",
+    "due_date": "10/10/2025",
+    "value": 1
+    },
+    {
+    "name": "🌏 Luce Scholarship",
+    "description": "The award provides for a year's experience in Asia in an internship arranged for each Scholar on the basis of his/her specific interest, background, qualifications, and experience. The program was designed as a cultural experience for young leaders who have had no prior experience of Asia and who might not otherwise have an opportunity in the normal course of their careers to come to know Asia or their Asian counterparts and contemporaries.",
+    "url": "https://www.hluce.org/programs/luce-scholars/",
+    "due_date": "10/15/2025",
+    "value": 1
+    },
+    {
+    "name": "🇺🇸 Udall Scholarship",
+    "description": "The Udall Scholarship Program honors the public service legacies of Morris K. Udall, Congressman from Arizona (1961-1991), and Stewart L. Udall, Secretary of the Interior (1961-1969). The scholarship covers eligible expenses for tuition, fees, books, and room and board, up to a maximum of $7,000. Juniors are eligible for one year of support; sophomores may be renominated during their junior year and compete for a second year of support. Approximately 60 fellowships are awarded each year.",
+    "url": "http://udall.gov/",
+    "due_date": "03/01/2025",
+    "value": 1
+    },
+    {
+    "name": "🇺🇸 🌐 Thomas Pickering Fellowship",
+    "description": "Full-ride Masters program with a track to the United States Foreign Diplomatic Service",
+    "url": "https://pickeringfellowship.org/",
+    "due_date": "09/15/2025",
+    "value": 1
+    },
+    {
+    "name": "🇺🇸 🌐 🗽 Charles Rangel Fellowship",
+    "description": "Diversity fellowship for a Masters and track to the United States Foreign Diplomatic Service",
+    "url": "http://rangelprogram.org/",
+    "due_date": "09/15/2025",
+    "value": 1
+    },
+    {
+    "name": "🇺🇸 🌐 Charles Rangel Undergraduate Summer Enrichment Program",
+    "description": "Six-week summer program for undergraduate students interested in international affairs.",
+    "url": "http://rangelprogram.org/",
+    "due_date": "02/01/2025",
+    "value": 1
+    },
+    {
+    "name": "🇺🇸 🌐 Foreign Affairs Information Technology Fellowship",
+    "description": "A fellowship to fund a two-year master’s degree in an IT-related field for students who want a career in the Foreign Service as an Information Management Specialist. This two-year award includes two paid summer internships (one in Washington DC and one abroad). Applications from members of historically underrepresented groups in Foreign Service careers are encouraged.",
+    "url": "https://www.faitfellowship.org/how-to-apply/",
+    "due_date": "01/31/2025",
+    "value": 1
+    },
+    {
+    "name": "🌐 Fulbright Scholarship",
+    "description": "The Fulbright U.S. Student Program provides grants for individually designed study/research projects or for English Teaching Assistantships. The program gives recent graduates, Master’s candidates, Doctoral candidates, and young professionals opportunities for personal development through an international experience.",
+    "url": "http://us.fulbrightonline.org/",
+    "due_date": "10/10/2025",
+    "value": 1
+    },
+    {
+    "name": "🌐 Fulbright Fogarty Fellows In Public Health",
+    "description": "Public health and clinical research in resource-limited settings.",
+    "url": "https://us.fulbrightonline.org/about/types-of-awards/fulbright-fogarty-fellowships-in-public-health",
+    "due_date": "10/01/2025",
+    "value": 1
+    },
+    {
+    "name": "🌐 Fulbright English Teaching Assistant",
+    "description": "Teach English abroad.",
+    "url": "http://us.fulbrightonline.org/about/types-of-grants/english-teaching-assistant-grants",
+    "due_date": "10/10/2025",
+    "value": 1
+    },
+    {
+    "name": "🇺🇸 🌐 Payne International Development Fellowship",
+    "description": "USAID Pathway and up to $104,000 in benefits over two years for graduate school, internships, and professional development.",
+    "url": "https://www.paynefellows.org/",
+    "due_date": "11/01/2025",
+    "value": 1
+    },
+    {
+    "name": "🇺🇸 🌐 🗣 Critical Language Scholarship",
+    "description": "Intensive overseas language programs sponsored by the U.S. Department of State.",
+    "url": "http://www.clscholarship.org/",
+    "due_date": "11/01/2025",
+    "value": 1
+    },
+    {
+    "name": "🇺🇸 🌐 🗣 Boren National Security Education Awards",
+    "description": "Funding for intensive language study abroad.",
+    "url": "https://www.borenawards.org/",
+    "due_date": "01/15/2025",
+    "value": 1
+    },
+    {
+    "name": "🌏 🗣 🌐 Blakemore Freeman Fellowships for Advanced Study of Asian Languages",
+    "description": "Fellowships awarded for one academic year (two semesters or three quarters) of advanced level language study in East or Southeast Asia.",
+    "url": "https://www.blakemorefoundation.org/language",
+    "due_date": "12/01/2025",
+    "value": 1
     }
-  ]
-  
+]
