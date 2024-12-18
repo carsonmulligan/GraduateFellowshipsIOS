@@ -187,5 +187,104 @@
     "url": "https://www.blakemorefoundation.org/language",
     "due_date": "12/01/2025",
     "value": 1
+    },
+    {
+        "name": "🌏 🗣 🌐 American Institute of India Studies Language Programs",
+        "description": "The AIIS Language Program offers nine-month academic year, summer and semester courses at elementary to advanced levels in many languages, including several that are rarely taught outside of India. Applications are due by December 31.",
+        "url": "https://indiastudies.org/language-programs/",
+        "due_date": "01/31/2025",
+        "value": 1
+    },
+    {
+        "name": "🌐 🧑‍🏫 🗣 Fulbright Hays Fellowship for Non-Western Languages",
+        "description": "Department of Education Fellowship for educators, administrators, pre and post doctoral students. Focused on research and training overseas on non-Western language and area studies.",
+        "url": "http://eca.state.gov/fulbright/fulbright-programs/program-summaries/fulbright-hays-program",
+        "due_date": "02/01/2025",
+        "value": 1
+    },
+    {
+        "name": "🇩🇪 🗣 Congress Bundestag Youth Exchange (CBYX) Program",
+        "description": "Provides one year of funding in Germany to cover two months of intensive German language study, one semester of classes in any academic field, and a three-month internship.",
+        "url": "https://culturalvistas.org/programs/abroad/congress-bundestag-youth-exchange-young-professionals/",
+        "due_date": "11/01/2025",
+        "value": 1
+    },
+    {
+        "name": "🇩🇪 🗣 🗺 German Chancellor Fellowship (Alexander Von Humboldt Foundation)",
+        "description": "Funding for recent graduates to carry out a self-designed project in Germany in any field. German language classes are provided during the grant period.",
+        "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/german-chancellor-fellowship",
+        "due_date": "10/15/2025",
+        "value": 1
+    },
+    {
+        "name": "🇺🇸 🧑‍🔬 Barry M. Goldwater Scholarship",
+        "description": "The Goldwater Scholarship fosters excellence in the natural sciences, engineering, and mathematics in the U.S. Awards provide a maximum of $7,500 per year for tuition and fees.",
+        "url": "https://goldwater.scholarsapply.org/",
+        "due_date": "01/15/2025",
+        "value": 1
+    },
+    {
+        "name": "🌐 🎵 Fulbright-mtvU awards",
+        "description": "Research grant focused on international music culture and its impact.",
+        "url": "http://us.fulbrightonline.org/fulbright-mtvu-awards",
+        "due_date": "03/01/2025",
+        "value": 1
+    },
+    {
+        "name": "🇺🇸 🧑‍🔬 💰 Hertz Fellowship",
+        "description": "Full-tuition equivalent for up to five years of STEM graduate funding valued at up to $250,000. Additional dependent childcare stipend available.",
+        "url": "https://www.hertzfoundation.org/the-fellowship/faq/",
+        "due_date": "10/28/2025",
+        "value": 1
+    },
+    {
+        "name": "🇺🇸 🧑‍🔬 🗽 Ford Foundation Fellowship",
+        "description": "Diversity partnership with National Academy of Sciences for graduate study in STEM.",
+        "url": "https://sites.nationalacademies.org/PGA/FordFellowships/index.htm",
+        "due_date": "12/08/2025",
+        "value": 1
+    },
+    {
+        "name": "🇺🇸 🧑‍🔬 National Science Foundation Graduate Research Fellowship Program",
+        "description": "Up to three years of support for STEM graduate education.",
+        "url": "https://nsfgrfp.org/applicants/",
+        "due_date": "10/10/2025",
+        "value": 1
+    },
+    {
+        "name": "🇺🇸 🧑‍🔬 ⚕️ National Institutes of Health Undergraduate Scholarship Program",
+        "description": "Up to $20,000 annually for eligible undergraduates pursuing biomedical research degrees.",
+        "url": "https://www.training.nih.gov/programs/ugsp",
+        "due_date": "03/15/2025",
+        "value": 1
+    },
+    {
+        "name": "🇺🇸 🧑‍🔬 ⚕️ National Institutes of Health Postbaccalaureate Intramural Research Training Award",
+        "description": "One to two years of full-time research at the NIH for recent college graduates.",
+        "url": "https://www.training.nih.gov/programs/postbac_irta",
+        "due_date": "03/15/2025",
+        "value": 1
+    },
+    {
+        "name": "🇺🇸 🧑‍🔬 ⚕️ National Institutes of Health Oxford/Cambridge Biomedical Research",
+        "description": "Full funding for outstanding students pursuing accelerated doctoral training in biomedical research.",
+        "url": "https://oxcam.gpp.nih.gov/prospective-students",
+        "due_date": "01/10/2025",
+        "value": 1
+    },
+    {
+        "name": "🇺🇸 🇬🇧 🧑‍🔬 ⚕️ National Institutes of Health Oxford/Cambridge MD/PhD",
+        "description": "Dual-degree funding for research at the NIH and at Oxford/Cambridge University.",
+        "url": "https://oxcam.gpp.nih.gov/about/mdphd-partnerships-program",
+        "due_date": "01/10/2025",
+        "value": 1
+    },
+    {
+        "name": "🇺🇸 🧑‍🔬 National Science Foundation Research Fellowship Program",
+        "description": "Fellowships for early graduate students showing strong potential for research in STEM fields.",
+        "url": "https://www.nsfgrfp.org/applicants/",
+        "due_date": "10/15/2025",
+        "value": 1
     }
 ]
+    
