@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct Scholarship: Codable, Identifiable {
+struct Fellowship: Codable, Identifiable {
     let id = UUID()
     let name: String
     let description: String
@@ -9,14 +9,14 @@ struct Scholarship: Codable, Identifiable {
     let value: Int
 }
 
-class ScholarshipViewModel: ObservableObject {
-    @Published var scholarships: [Scholarship] = []
+class FellowshipViewModel: ObservableObject {
+    @Published var fellowships: [Fellowship] = []
     
     init() {
-        loadScholarships()
+        loadFellowships()
     }
     
-    func loadScholarships() {
+    func loadFellowships() {
         guard let url = Bundle.main.url(forResource: "fellowships", withExtension: "json"),
               let data = try? Data(contentsOf: url) else {
             print("Error loading JSON data")
@@ -25,7 +25,7 @@ class ScholarshipViewModel: ObservableObject {
         
         do {
             let decoder = JSONDecoder()
-            scholarships = try decoder.decode([Scholarship].self, from: data)
+            fellowships = try decoder.decode([Fellowship].self, from: data)
         } catch {
             print("Error decoding JSON: \(error)")
         }
@@ -33,26 +33,26 @@ class ScholarshipViewModel: ObservableObject {
 }
 
 struct ContentView: View {
-    @StateObject private var viewModel = ScholarshipViewModel()
+    @StateObject private var viewModel = FellowshipViewModel()
     
     var body: some View {
         NavigationView {
-            List(viewModel.scholarships) { scholarship in
+            List(viewModel.fellowships) { fellowship in
                 VStack(alignment: .leading, spacing: 8) {
-                    Text(scholarship.name)
+                    Text(fellowship.name)
                         .font(.headline)
-                    Text(scholarship.description)
+                    Text(fellowship.description)
                         .font(.subheadline)
                         .lineLimit(3)
-                    Text("Due Date: \(scholarship.due_date)")
+                    Text("Due Date: \(fellowship.due_date)")
                         .font(.caption)
-                    Link("Visit Website", destination: URL(string: scholarship.url)!)
+                    Link("Visit Website", destination: URL(string: fellowship.url)!)
                         .font(.caption)
                         .foregroundColor(.blue)
                 }
                 .padding(.vertical, 8)
             }
-            .navigationTitle("Scholarships")
+            .navigationTitle("Graduate Fellowships")
         }
     }
 }
