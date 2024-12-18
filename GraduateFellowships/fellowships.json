@@ -1,0 +1,18 @@
+[
+    {
+      "name": "🇬🇧 Rhodes Scholarship",
+      "description": "The Rhodes Scholarships are the oldest and most celebrated international fellowship awards in the world. Each year 32 young students from the U.S. are selected as Rhodes Scholars. The Rhodes Scholarship funds two years of graduate study at Oxford University in most fields (excluding professional degree programs such as law and medicine).",
+      "url": "http://www.rhodesscholar.org/",
+      "due_date": "01/10/2025",
+      "value": 1
+    },
+    {
+      "name": "🇬🇧 Marshall Scholarship",
+      "description": "The Marshall Scholarship funds one or two years of graduate study at a wide range of institutions in the United Kingdom. Most fields of study are supported. Professional degrees, such as those in law, business, and medicine are excluded, as are second baccalaureate degrees.",
+      "url": "http://www.marshallscholarship.org/",
+      "due_date": "15/09/2025",
+      "value": 1
+    }
+  ]
+  
+  
