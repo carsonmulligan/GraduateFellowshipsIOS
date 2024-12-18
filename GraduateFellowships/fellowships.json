@@ -1,7 +1,7 @@
 [
     {
       "name": "🇬🇧 Rhodes Scholarship",
-      "description": "The Rhodes Scholarships are the oldest and most celebrated international fellowship awards in the world. Each year 32 young students from the U.S. are selected as Rhodes Scholars. The Rhodes Scholarship funds two years of graduate study at Oxford University in most fields (excluding professional degree programs such as law and medicine).",
+      "description": "The Rhodes fellowships are the oldest and most celebrated international fellowship awards in the world. Each year 32 young students from the U.S. are selected as Rhodes Scholars. The Rhodes Scholarship funds two years of graduate study at Oxford University in most fields (excluding professional degree programs such as law and medicine).",
       "url": "http://www.rhodesscholar.org/",
       "due_date": "01/10/2025",
       "value": 1
@@ -10,9 +10,71 @@
       "name": "🇬🇧 Marshall Scholarship",
       "description": "The Marshall Scholarship funds one or two years of graduate study at a wide range of institutions in the United Kingdom. Most fields of study are supported. Professional degrees, such as those in law, business, and medicine are excluded, as are second baccalaureate degrees.",
       "url": "http://www.marshallscholarship.org/",
-      "due_date": "15/09/2025",
+      "due_date": "09/15/2025",
+      "value": 1
+    },
+    {
+      "name": "🇬🇧 Gates-Cambridge Scholarship",
+      "description": "The Gates Cambridge Scholarship supports one to three years of post-baccalaureate study in any field at the University of Cambridge. Students must apply for admission as a postgraduate student to the University of Cambridge and a Gates Cambridge Scholarship at the same time, with one application form, via the Graduate Admissions Office. Applicants must demonstrate exceptional academic achievement, potential for scholarly development, and a commitment to use the benefits of their education for the common good. Citizens from any country other than the UK are eligible.",
+      "url": "https://www.gatescambridge.org/",
+      "due_date": "10/10/2025",
+      "value": 1
+    },
+    {
+      "name": "🇬🇧 Churchill Scholarship",
+      "description": "The Churchill Scholarship provides around $60,000 for a year of graduate study in engineering, mathematics, or science at Churchill College, Cambridge University, plus a $1500 travel allowance and the possibility of a $2000 Special Research Grant, approved in advance by the Foundation, to cover research expenses. Fifteen fellowships are awarded annually.",
+      "url": "https://www.churchillscholarship.org/the-scholarship#Apply",
+      "due_date": "11/01/2025",
+      "value": 1
+    },
+    {
+      "name": "🇮🇪 Mitchell Scholarship",
+      "description": "The George J. Mitchell Scholarship supports one year of graduate study in any field at one of the eleven institutions of higher learning on the island of Ireland. This includes the seven universities in the Republic of Ireland, two institutes in Dublin, and two universities in Northern Ireland (Queen's University Belfast and the Ulster University). Up to 12 Scholars are selected each year.",
+      "url": "http://www.us-irelandalliance.org/mitchellscholarship",
+      "due_date": "09/15/2025",
+      "value": 1
+    },
+    {
+      "name": "🇺🇸 Stanford Knight-Henessy Scholarship",
+      "description": "The Knight-Hennessy scholarship offers up to three years of funding for a graduate degree in any of Stanford University's 125 degree programs, from PhD's in education, engineering, the humanities, and the natural sciences to professional degrees such as the MS, JD, MD, MBA, or MFA. In addition to their graduate studies, scholars participate in leadership development programs and immersive study trips and have mentor opportunities with major leaders in the business, government, and nonprofit fields. The scholarship is open to citizens from any country. Those who are interested must have earned an undergraduate degree in 2014 or later to be eligible to apply for acceptance in the fall of 2020. Institutional endorsement is not required.",
+      "url": "https://knight-hennessy.stanford.edu/",
+      "due_date": "10/12/2025",
+      "value": 1
+    },
+    {
+      "name": "🇺🇸 Soros Fellowship for New Americans",
+      "description": "Up to two years of full-time graduate study in any field for new citizens or first-generation children of non-US citizens.",
+      "url": "https://www.pdsoros.org/",
+      "due_date": "10/15/2025",
+      "value": 1
+    },
+    {
+      "name": "🇨🇳 Schwarzman Scholarship",
+      "description": "Schwarzman Scholars is a highly-selective, fully-funded Master’s degree in Global Affairs program based at the distinguished Tsinghua University in Beijing. Schwarzman Scholars is an education and leadership development program designed to ensure that the next generation of business, political, and non-profit leaders around the world have a deeper understanding of how their fields are influenced by China’s emerging global role. Citizens of all countries are eligible. Candidates must be at least 18 but not yet 29 years of age. English proficiency test scores must be submitted if English is not the applicant’s native language.",
+      "url": "https://connect.schwarzmanscholars.org/apply/",
+      "due_date": "09/20/2025",
+      "value": 1
+    },
+    {
+      "name": "🇨🇳 Yenching Academy Scholarship",
+      "description": "Provides funding to pursue a two-year master’s degree in China Studies from Peking University. Applicants from diverse fields come together to study ancient, modern, and contemporary China in an English-taught program.",
+      "url": "https://yenchingacademy.pku.edu.cn/",
+      "due_date": "12/01/2025",
+      "value": 1
+    },
+    {
+      "name": "🇯🇵 Watanabe Study Abroad Scholarship",
+      "description": "Scholarship provides financial assistance up to the full cost of attendance for study abroad in Japan to undergraduates and graduate students in need of financial support.",
+      "url": "https://www.usjapancouncil.org/watanabe-scholarship/",
+      "due_date": "02/15/2025",
+      "value": 1
+    },
+    {
+      "name": "🇺🇸 🎖 Harry S. Truman Scholarship",
+      "description": "The Harry S. Truman Scholarship provides funding for graduate school as preparation for a career in government or public service. Truman Scholars receive up to $30,000 for graduate studies. In addition, they participate in leadership development programs and have special opportunities for internships and employment with the federal government. About 60 fellowships are awarded each year.",
+      "url": "http://www.truman.gov/",
+      "due_date": "01/15/2025",
       "value": 1
     }
   ]
-  
   
